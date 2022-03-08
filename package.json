@@ -1,0 +1,23 @@
+{
+  "name": "xsplit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "cpu-stats": "^1.0.0",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "generate-serial-key": "^2.0.0",
+    "is-empty": "^1.2.0",
+    "jsoning": "^0.13.23",
+    "lodash": "^4.17.21"
+  }
+}
